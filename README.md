@@ -23,7 +23,6 @@ Build interactive dashboards for business decision-making
 📂 Project Structure
 ├── superstore.csv
 ├── superstore_visuals_python.ipynb
-├── CodeAlpha_DataVisualization.ipynb
 ├── superstore_visuals_tableau.twb
 ├── superstore_visuals_powerbi.pbix
 ├── README.md
